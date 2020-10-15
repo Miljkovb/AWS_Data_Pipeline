@@ -1,0 +1,6 @@
+{
+  "Permeters": {
+    "Environment": "delivery",
+    "Application": "data-processor"
+  }
+}
